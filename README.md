@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo-hmwang)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=echo-hmwang&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋I’m @Huimeng Wang. 
 
 Now I am an undergraduate student majoring in Automation science and engineering at :school:[Xi'an Jiao Tong University](http://www.xjtu.edu.cn/). At the same time, I am an incoming Ph.D. student of [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html) in 2023 Fall. 
