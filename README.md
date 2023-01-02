@@ -10,11 +10,8 @@ Now I am an undergraduate student majoring in Automation science and engineering
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="right"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-hmwang&layout=compact" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-hmwang&layout=compact&theme=transparent" />
 </a>
-<br />
-
-<br />
 
 ## Hobby
 :blush: Hobbies is an important part of my life.
