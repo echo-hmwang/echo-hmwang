@@ -16,9 +16,6 @@ I am an undergraduate student majoring in Automation at [Xi'an Jiao Tong Univers
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=echo-hmwang&count_private=true&show_icons=true&theme=transparent" /></a> |
 | ------------------------------------------------------------ |
 
-<br />
-<br />
-
 <a href="https://twitter.com/WANGHUIMENG_">
   <img align="left" alt="Huimeng Wang | Twitter" width="21px" src="https://raw.githubusercontent.com/echo-hmwang/echo-hmwang/master/assets/twitter.svg" />
 </a>
