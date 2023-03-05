@@ -3,7 +3,7 @@
 ____________________________________________
 ### About me:
 - 😄 Pronouns: He/Him
-- 👋 An final year student majoring in Automation at [XJTU](https://www.xjtu.edu.cn)
+- 👋 A final year student majoring in Automation at [XJTU](https://www.xjtu.edu.cn)
 - 🏫 An incoming Ph.D. student at [CUHK](https://www.cuhk.edu.hk/chinese/)
 - 📈 Just a novice in speech and language processing
 - ❤️ I love coding, and strive to become a highly qualified deep learning engineer
