@@ -22,5 +22,5 @@ ________________________________________________________________________________
 ### 📊GitHub Stats:
 <div align=center> 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=echo-hmwang&count_private=true&show_icons=true&theme=transparent" /></a> |
+| <a href="https://github-readme-stats-gamma-orcin-46.vercel.app"><img align="center" src="github-readme-stats-gamma-orcin-46.vercel.app/api?username=echo-hmwang&count_private=true&show_icons=true&theme=transparent" /></a> |
 | ------------------------------------------------- |
