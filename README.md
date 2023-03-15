@@ -18,9 +18,3 @@ ____________________________________________
 <br />
 
 ___________________________________________________________________________________________________________
-
-### 📊GitHub Stats:
-<div align=center> 
-
-| <a href="https://github-readme-stats-gamma-orcin-46.vercel.app"><img align="center" src="https://github-readme-stats-gamma-orcin-46.vercel.app/api?username=echo-hmwang&count_private=true&show_icons=true&theme=transparent" /></a> |
-| ------------------------------------------------- |
