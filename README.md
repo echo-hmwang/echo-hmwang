@@ -5,7 +5,6 @@ ____________________________________________
 - 😄 Pronouns: He/Him
 - 🏫 A first-year Ph.D. student @ [CUHK](https://www.cuhk.edu.hk/chinese/)
 - 👋 B.Eng majoring in Automation @ [XJTU](https://www.xjtu.edu.cn)
-- 📈 A researcher focusing on ASR
 - 💬 Ask me about anything [here](https://github.com/echo-hmwang/echo-hmwang/issues)
 
 ___________________________________________________________________________________________________________
